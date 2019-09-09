@@ -1,0 +1,268 @@
+fileFormatVersion: 2
+guid: c8b376e744e7d7b468deaeecc8c4e814
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bin
+    100002: Boxsmall
+    100004: Breifcase_
+    100006: Canister_1
+    100008: Canister_2
+    100010: Canister_3
+    100012: Canister_Low003
+    100014: Cardboard Box 005
+    100016: Garage_Ceilling
+    100018: PhotometricLight001
+    100020: PhotometricLight002
+    100022: Plane001
+    100024: Room_Floor
+    100026: Room_MainWalls
+    100028: //RootNode
+    100030: Safe
+    100032: SiFiDesk
+    100034: Vines Large
+    100036: Vines Small
+    100038: Window
+    100040: Workstation_
+    400000: Bin
+    400002: Boxsmall
+    400004: Breifcase_
+    400006: Canister_1
+    400008: Canister_2
+    400010: Canister_3
+    400012: Canister_Low003
+    400014: Cardboard Box 005
+    400016: Garage_Ceilling
+    400018: PhotometricLight001
+    400020: PhotometricLight002
+    400022: Plane001
+    400024: Room_Floor
+    400026: Room_MainWalls
+    400028: //RootNode
+    400030: Safe
+    400032: SiFiDesk
+    400034: Vines Large
+    400036: Vines Small
+    400038: Window
+    400040: Workstation_
+    2100000: No Name
+    2100002: Room_Mat
+    2100004: Safe_Mat
+    2100006: Si Fi Desk_Mat
+    2100008: Canister_Mat
+    2100010: Vines Large_Mat
+    2100012: Workstation Mat
+    2100014: VinesSmall_Mat
+    2100016: Box_Mat
+    2100018: BoxLarg_Mat
+    2100020: Bin Mat
+    2100022: Window_Mat
+    2100024: Goo_Mat
+    2300000: Bin
+    2300002: Boxsmall
+    2300004: Breifcase_
+    2300006: Canister_1
+    2300008: Canister_2
+    2300010: Canister_3
+    2300012: Canister_Low003
+    2300014: Cardboard Box 005
+    2300016: Garage_Ceilling
+    2300018: Plane001
+    2300020: Room_Floor
+    2300022: Room_MainWalls
+    2300024: Safe
+    2300026: SiFiDesk
+    2300028: Vines Large
+    2300030: Vines Small
+    2300032: Window
+    2300034: Workstation_
+    3300000: Bin
+    3300002: Boxsmall
+    3300004: Breifcase_
+    3300006: Canister_1
+    3300008: Canister_2
+    3300010: Canister_3
+    3300012: Canister_Low003
+    3300014: Cardboard Box 005
+    3300016: Garage_Ceilling
+    3300018: Plane001
+    3300020: Room_Floor
+    3300022: Room_MainWalls
+    3300024: Safe
+    3300026: SiFiDesk
+    3300028: Vines Large
+    3300030: Vines Small
+    3300032: Window
+    3300034: Workstation_
+    4300000: Room_Floor
+    4300002: Room_MainWalls
+    4300004: Garage_Ceilling
+    4300006: Safe
+    4300008: Breifcase_
+    4300010: SiFiDesk
+    4300012: Canister_1
+    4300014: Canister_2
+    4300016: Canister_3
+    4300018: Canister_Low003
+    4300020: Vines Large
+    4300022: Workstation_
+    4300024: Vines Small
+    4300026: Boxsmall
+    4300028: Cardboard Box 005
+    4300030: Bin
+    4300032: Window
+    4300034: Plane001
+    9500000: //RootNode
+    10800000: PhotometricLight001
+    10800002: PhotometricLight002
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bin Mat
+    second: {fileID: 2100000, guid: 00187cc893fcede4e8be8f9650cea3a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BoxLarg_Mat
+    second: {fileID: 2100000, guid: ccf230a3f032c5145819801ec71b055a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box_Mat
+    second: {fileID: 2100000, guid: dcfea7bd0c62adb4fa16afa66ab1b26b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Canister_Mat
+    second: {fileID: 2100000, guid: e50e0af0b15887c40afabc001b2750b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Goo_Mat
+    second: {fileID: 2100000, guid: ef0c7baece6830844b9580c23ca3d4bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: e9c8b6dec15903d438d336d001b60cc5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Room_Mat
+    second: {fileID: 2100000, guid: 86942e952ee716f45b3cccb975b8204c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Safe_Mat
+    second: {fileID: 2100000, guid: b83bae72e542c8b4e961745ca0543ba2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Si Fi Desk_Mat
+    second: {fileID: 2100000, guid: c058c03e60fb09d47b554497c570f118, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vines Large_Mat
+    second: {fileID: 2100000, guid: 31cdb153448a3784ca3832e3673fa541, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: VinesSmall_Mat
+    second: {fileID: 2100000, guid: ab043cae1e1e01d4fb8a1c4da8c304b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Window_Mat
+    second: {fileID: 2100000, guid: 4db5b17149b83584e8a3051f47e60271, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Workstation Mat
+    second: {fileID: 2100000, guid: a70316c92da9aa84194306daa775c1ca, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
